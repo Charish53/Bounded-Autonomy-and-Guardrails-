@@ -9,6 +9,5 @@ logs/
 coverage/
 *.tsbuildinfo
 .temp/
-reports/
 .env.example
 
